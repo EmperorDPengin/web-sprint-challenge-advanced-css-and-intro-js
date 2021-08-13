@@ -179,14 +179,13 @@ button:hover{
     a{
         font-size: 1.7rem;
     }
-    p{
-        
-    }
     nav{
         width: 45%;
         justify-content: space-around;
     }
-
+    .title-container{
+        padding-bottom: 2%;
+    }
     /* TOP SECTION Selectors */
     .title-container div{
         width: 100%;
@@ -199,6 +198,7 @@ button:hover{
     /* ARTIST SECTION Selectors */
     .artists-container{
         flex-wrap: wrap;
+        padding-bottom: 10%;
     }
     .artists-container .artist{
         display: flex;
@@ -213,7 +213,5 @@ button:hover{
         height: 50%;
         padding-bottom: 2%;
     }
-
-
 
 }

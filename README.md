@@ -40,7 +40,7 @@ Please answer the following questions below, you may edit the readme file to inc
 
 5. How do you access a key inside of an object inside of an array?
     A. array[i]["key"];
-    
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
@@ -72,7 +72,7 @@ You will be running your tests in one terminal and debugging in the other. As yo
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Ensure your website is responsive at 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [x] Ensure your website is responsive at 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
